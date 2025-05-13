@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627240251135",
+    "project_id": "fir-rest-ca7c0",
+    "storage_bucket": "fir-rest-ca7c0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627240251135:android:9e449754f49586731c26ca",
+        "android_client_info": {
+          "package_name": "com.example.firebaserest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzFc7UUpUg4rw7rUexzIGXlWjQnNo9BH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
